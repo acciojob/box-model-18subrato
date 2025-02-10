@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+.container{
+	width:80%;
+	height:200px;
+	border:5px solid black;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	border-radius:50px;
+	background-color:gray;
+}
+
+#same1{
+	width:100px;
+	background-color:green;
+	height:50%;
+	border-radius:50%;
+	margin:6px;
+}
+
+#same2{
+	width:100px;
+	background-color:yellow;
+	height:50%;
+	border-radius:50%;
+	margin:6px;
+}
+
+#same3{
+	width:100px;
+	background-color:red;
+	height:50%;
+	border-radius:50%;
+	margin:6px;
+}
